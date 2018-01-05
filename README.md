@@ -1,3 +1,3 @@
 # hello-world
-Intro to git Hub.. Yayyyy!!
+Compariosn control Yayy!!!
 Changing for branch one.. :P
